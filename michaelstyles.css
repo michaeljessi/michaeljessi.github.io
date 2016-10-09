@@ -1,0 +1,26 @@
+img {
+  height:  400px;
+  width:  400px;
+}
+
+section{
+  position: relative;
+  height:  500px;
+}
+
+html  {background: tan;}
+
+section h1 {
+  display: inline-block;
+  float: right;
+  width: 800px;
+}
+
+.section1 img{
+  position: left;
+  left:  500px;
+}
+
+  body {    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;     font-weight: 300; }
+
+header h1{text-align: center;}
